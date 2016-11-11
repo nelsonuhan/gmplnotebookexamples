@@ -4,6 +4,9 @@ MAINTAINER Nelson Uhan <nelson@uhan.me>
 
 USER root
 
+# Do everything in main's home directory
+WORKDIR /home/main
+
 # Update repositories
 RUN apt-get update
 
