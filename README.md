@@ -4,7 +4,9 @@
 
 ## How to use &mdash; no installation required!
 
-First, click the __Launch Binder__ badge above. 
+First, check if Binder is working [here](http://mybinder.org/status/). If so, continue...
+
+Click the __Launch Binder__ badge above. 
 
 Once Binder has launched, you should see the Jupyter Notebook Dashboard with two example GMPL Notebook files:
 
