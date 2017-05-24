@@ -26,7 +26,7 @@ ENV LD_LIBRARY_PATH /usr/local/lib
 RUN /home/main/anaconda2/envs/python3/bin/pip install https://github.com/bradfordboyle/pyglpk/zipball/master
 
 # Install GMPL Notebook
-RUN /home/main/anaconda2/envs/python3/bin/pip install gmplnotebook
+RUN /home/main/anaconda2/envs/python3/bin/pip install https://github.com/nelsonuhan/gmplnotebook/zipball/master 
 
 # Install GMPL Notebook kernel extension 
 RUN /home/main/anaconda2/envs/python3/bin/python -m gmplnotebook install --user
