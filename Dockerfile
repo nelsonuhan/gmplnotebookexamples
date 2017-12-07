@@ -23,7 +23,7 @@ USER main
 # Install pyglpk
 ENV C_INCLUDE_PATH /usr/local/include
 ENV LD_LIBRARY_PATH /usr/local/lib
-RUN /home/main/anaconda2/envs/python3/bin/pip install https://github.com/bradfordboyle/pyglpk/zipball/master
+RUN /home/main/anaconda2/envs/python3/bin/pip install https://github.com/bradfordboyle/pyglpk/zipball/v0.4.3
 
 # Install GMPL Notebook
 RUN /home/main/anaconda2/envs/python3/bin/pip install https://github.com/nelsonuhan/gmplnotebook/zipball/master 
