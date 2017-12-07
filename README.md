@@ -1,12 +1,10 @@
 # Examples using GMPL Notebook
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/nelsonuhan/gmplnotebookexamples)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nelsonuhan/gmplnotebookexamples/master)
 
 ## How to use &mdash; no installation required!
 
-First, check if Binder is working [here](http://mybinder.org/status/). If so, continue...
-
-Click the __Launch Binder__ badge above. 
+Click the __Launch Binder__ badge above. (Beware, Binder may be down.)
 
 Once Binder has launched, you should see the Jupyter Notebook Dashboard with two example GMPL Notebook files:
 
